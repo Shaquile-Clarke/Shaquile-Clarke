@@ -7,7 +7,7 @@ Web Developer
 * 🌍  I'm based in Barbados
 * ✉️  You can contact me at [shaquile.v.clarke@gmail.com](mailto:shaquile.v.clarke@gmail.com)
 * 🚀  I'm currently working on [My Portfolio](http://shaquileclarke.dev)
-* 🧠  I'm learning NextJS
+* 🧠  I'm learning React, NextJS & Tailwind Css
 
 ### Skills
 
